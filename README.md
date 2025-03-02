@@ -1,4 +1,4 @@
-**© 2024-2025 Eduardo Souza Rodrigues - Licensed for Educational Use Only**  
+**© 2025 Eduardo Souza Rodrigues - Licensed for Educational Use Only**  
 *Protected under Brazilian Law 9,610/98 - Strictly Non-Commercial Academic Use*
 
 [![License: Restricted Educational](https://img.shields.io/badge/License-Restricted_Educational-red.svg)](LICENSE)
